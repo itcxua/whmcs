@@ -7,7 +7,7 @@
 
 # --- Базові змінні ---
 
-domain="my.it.cx.ua"
+domain=""
 WANIP4=$(curl -s -k -m 5 -4 https://api64.ipify.org) && echo $WANIP4
 email="itcxua@gmail.com"
 install_dir="/var/www/$domain"
