@@ -1,0 +1,243 @@
+<?php
+$_LANG_PUQ['Information'] = "Информация";
+$_LANG_PUQ['Network configuration'] = "Конфигурация сети";
+$_LANG_PUQ['API Connection status'] = "Статус подключения API";
+$_LANG_PUQ['yes'] = "да";
+$_LANG_PUQ['not'] = "нет";
+$_LANG_PUQ['Something went wrong'] = "Что-то пошло не так";
+$_LANG_PUQ['Please try again after some time'] = "Пожалуйста, попробуйте позже";
+$_LANG_PUQ['Copy'] = "Копировать";
+$_LANG_PUQ['User manual'] = "Руководство пользователя";
+$_LANG_PUQ['Username'] = 'Имя пользователя';
+$_LANG_PUQ['Server'] = 'Сервер';
+$_LANG_PUQ['Password'] = 'Пароль';
+
+$_LANG_PUQ['Traffic statistics'] = 'Статистика трафика';
+$_LANG_PUQ['Date'] = 'Дата';
+$_LANG_PUQ['Monthly traffic statistics'] = 'Месячная статистика трафика';
+$_LANG_PUQ['Balance'] = 'Баланс';
+$_LANG_PUQ['Summ'] = 'Сумма';
+$_LANG_PUQ['Download'] = 'Загрузка';
+$_LANG_PUQ['Upload'] = 'Выгрузка';
+$_LANG_PUQ['Total traffic for all time per month.'] = 'Общий трафик за все время по месяцам.';
+$_LANG_PUQ['Traffic statistics for the selected period'] = 'Статистика трафика за выбранный период';
+$_LANG_PUQ['Traffic'] = 'Трафик';
+
+$_LANG_PUQ['January'] = 'Январь';
+$_LANG_PUQ['February'] = 'Февраль';
+$_LANG_PUQ['March'] = 'Март';
+$_LANG_PUQ['April'] = 'Апрель';
+$_LANG_PUQ['May'] = 'Май';
+$_LANG_PUQ['June'] = 'Июнь';
+$_LANG_PUQ['July'] = 'Июль';
+$_LANG_PUQ['August'] = 'Август';
+$_LANG_PUQ['September'] = 'Сентябрь';
+$_LANG_PUQ['October'] = 'Октябрь';
+$_LANG_PUQ['November'] = 'Ноябрь';
+$_LANG_PUQ['December'] = 'Декабрь';
+$_LANG_PUQ['Month'] = 'Месяц';
+$_LANG_PUQ['Year'] = 'Год';
+$_LANG_PUQ['Hide days with no traffic'] = 'Скрыть дни без трафика';
+$_LANG_PUQ['Show days with no traffic'] = 'Показать дни без трафика';
+
+$_LANG_PUQ['Successfully'] = 'Успешно';
+$_LANG_PUQ['Reverse DNS record'] = 'Обратная запись DNS';
+$_LANG_PUQ['Changing a DNS record does not happen instantly. For a DNS record to work properly, it takes between 1 and 8 hours for the DNS servers to synchronize the record'] = 'Изменение записи DNS не происходит мгновенно. Для правильной работы записи DNS требуется от 1 до 8 часов для синхронизации записи на DNS-серверах';
+$_LANG_PUQ['Save'] = 'Сохранить';
+$_LANG_PUQ['Network configuration'] = 'Конфигурация сети';
+$_LANG_PUQ['IP'] = 'IP';
+$_LANG_PUQ['GW'] = 'GW';
+$_LANG_PUQ['DNS'] = 'DNS';
+$_LANG_PUQ['Backups'] = 'Резервные копии';
+$_LANG_PUQ['Sunday'] = 'Воскресенье';
+$_LANG_PUQ['Monday'] = 'Понедельник';
+$_LANG_PUQ['Tuesday'] = 'Вторник';
+$_LANG_PUQ['Wednesday'] = 'Среда';
+$_LANG_PUQ['Thursday'] = 'Четверг';
+$_LANG_PUQ['Friday'] = 'Пятница';
+$_LANG_PUQ['Saturday'] = 'Суббота';
+$_LANG_PUQ['If the schedule is configured, the system will automatically create backups and delete old backups.'] = 'Если расписание настроено, система будет автоматически создавать резервные копии и удалять старые копии.';
+$_LANG_PUQ['On this screen, you can configure the settings related to the backup schedule. Note that the settings on this screen affect which copies will be restored. If you have 3 available backups, setting a daily backup schedule will make the oldest backup you can recover from 3 days ago. If, on the other hand, you set the schedule for one day a week, then with 3 backup spaces, the oldest backup will be 3 weeks old. Take a moment to do this and think about what will be best for you.'] = 'На этом экране вы можете настроить параметры, связанные с расписанием резервного копирования. Обратите внимание, что настройки на этом экране влияют на то, какие копии будут восстановлены. Если у вас есть 3 доступные резервные копии, установка ежедневного расписания резервного копирования сделает самую старую резервную копию, которую можно восстановить, сделанную 3 дня назад. Если же вы установите расписание на один день в неделю, то с 3 резервными местами самая старая резервная копия будет сделана 3 недели назад. Потратьте немного времени, чтобы это сделать и подумайте, что будет лучше для вас.';
+$_LANG_PUQ['Save Schedule'] = 'Сохранить расписание';
+$_LANG_PUQ['Backups notes'] = 'Заметки о резервных копиях';
+$_LANG_PUQ['Backup now'] = 'Создать резервную копию сейчас';
+$_LANG_PUQ['In the case of a backup restore, all snapshots of Virtual Machine will be deleted'] = 'В случае восстановления из резервной копии все снимки виртуальной машины будут удалены';
+$_LANG_PUQ['Restore'] = 'Восстановить';
+$_LANG_PUQ['Remove'] = 'Удалить';
+$_LANG_PUQ['Are you sure?'] = 'Вы уверены?';
+$_LANG_PUQ['Stop?'] = 'Остановить?';
+$_LANG_PUQ['Start'] = 'Запустить';
+$_LANG_PUQ['Stop'] = 'Остановить';
+$_LANG_PUQ['noVNC'] = 'noVNC';
+$_LANG_PUQ['Charts'] = 'Графики';
+$_LANG_PUQ['Reinstall'] = 'Переустановить';
+$_LANG_PUQ['Snapshots'] = 'Снимки';
+$_LANG_PUQ['Reset password'] = 'Сбросить пароль';
+$_LANG_PUQ['revDNS'] = 'revDNS';
+$_LANG_PUQ['ISO'] = 'ISO';
+$_LANG_PUQ['Reinstallation process started successfully'] = 'Процесс переустановки успешно начался';
+$_LANG_PUQ['Reinstall?'] = 'Переустановить?';
+$_LANG_PUQ['You are in the area of reinstalling the virtual machine.'] = 'Вы находитесь в разделе переустановки виртуальной машины.';
+$_LANG_PUQ['You must be aware of what you will do here.'] = 'Вы должны осознавать, что делаете здесь.';
+$_LANG_PUQ['Reinstalling the virtual machine, completely remove all data on all disks of the virtual machine.'] = 'При переустановке виртуальной машины все данные на всех дисках виртуальной машины будут полностью удалены.';
+$_LANG_PUQ['Select operating system'] = 'Выберите операционную систему';
+$_LANG_PUQ['To protect against accidental reinstallation.'] = 'Для защиты от случайной переустановки.';
+$_LANG_PUQ['Please enter the word:'] = 'Пожалуйста, введите слово:';
+$_LANG_PUQ['In capital letters.'] = 'ЗАГЛАВНЫМИ БУКВАМИ.';
+$_LANG_PUQ['Something went wrong'] = 'Что-то пошло не так';
+$_LANG_PUQ['Please try again after some time'] = 'Пожалуйста, попробуйте позже';
+$_LANG_PUQ['Access Denied'] = 'Доступ запрещен';
+$_LANG_PUQ['You are not allowed to do what you want to do on this page.'] = 'Вам не разрешено делать то, что вы хотите на этой странице.';
+$_LANG_PUQ['The password reset procedure will work if the packages that are responsible for the operation of cloud-init have not been removed from the virtual machine'] = 'Процедура сброса пароля будет работать, если пакеты, ответственные за работу cloud-init, не были удалены с виртуальной машины';
+$_LANG_PUQ['If the reset procedure was successful, but the password was not changed, you need to connect to the virtual machine use the noVNC console, boot in safe mode and change the password yourself'] = 'Если процедура сброса прошла успешно, но пароль не изменился, вам необходимо подключиться к виртуальной машине, используя консоль noVNC, загрузиться в безопасном режиме и изменить пароль самостоятельно';
+$_LANG_PUQ['Mounted'] = 'Смонтировано';
+$_LANG_PUQ['Umount'] = 'Размонтировать';
+$_LANG_PUQ['Mount'] = 'Смонтировать';
+$_LANG_PUQ['Last hour'] = 'Последний час';
+$_LANG_PUQ['Last day'] = 'Последний день';
+$_LANG_PUQ['Last week'] = 'Последняя неделя';
+$_LANG_PUQ['Last month'] = 'Последний месяц';
+$_LANG_PUQ['Last year'] = 'Последний год';
+$_LANG_PUQ['Snapshot description'] = 'Описание снимка';
+$_LANG_PUQ['Take Snapshot'] = 'Сделать снимок';
+$_LANG_PUQ['Will be automatically removed after'] = 'Будет автоматически удален через';
+$_LANG_PUQ['Rollback'] = 'Откатить';
+$_LANG_PUQ['noVNC proxy not configured'] = 'Прокси noVNC не настроен';
+$_LANG_PUQ['CONNECT'] = 'ПОДКЛЮЧИТЬСЯ';
+$_LANG_PUQ['One-time link. Valid for 10 seconds.'] = 'Одноразовая ссылка. Действительна 10 секунд.';
+$_LANG_PUQ['Not allowed'] = 'Не разрешено';
+$_LANG_PUQ['Server STARTED Successfully'] = 'Сервер УСПЕШНО ЗАПУЩЕН';
+$_LANG_PUQ['Server STOPPED Successfully'] = 'Сервер УСПЕШНО ОСТАНОВЛЕН';
+$_LANG_PUQ['No data'] = 'Нет данных';
+$_LANG_PUQ['Blocked'] = 'Заблокировано';
+$_LANG_PUQ['DNS PTR'] = 'DNS PTR';
+$_LANG_PUQ['Open PTR Record'] = 'Открыть запись PTR';
+$_LANG_PUQ['Server status'] = 'Статус сервера';
+$_LANG_PUQ['Last minute'] = 'Последняя минута';
+$_LANG_PUQ['Last 15 minutes'] = 'Последние 15 минут';
+$_LANG_PUQ['Last 30 minutes'] = 'Последние 30 минут';
+$_LANG_PUQ['Last 45 minutes'] = 'Последние 45 минут';
+$_LANG_PUQ['Please wait, the data is being updated in real time'] = 'Пожалуйста, подождите, данные обновляются';
+$_LANG_PUQ['First select your operating system type and then select your image.'] = 'Сначала выберите тип вашей операционной системы, а затем выберите ваш образ.';
+$_LANG_PUQ['Please note that you can deploy backups of your other machines.'] = 'Обратите внимание, что вы можете развертывать резервные копии других машин.';
+$_LANG_PUQ['Turn on Backups'] = 'Включить резервные копии';
+$_LANG_PUQ['Turn off Backups'] = 'Выключить резервные копии';
+$_LANG_PUQ['Backups are automated copies of your server\'s disks. Each server is allocated seven backup slots. When all slots are full and a new backup is created, the oldest backup will be automatically deleted. To ensure data consistency, we recommend powering off your server before creating a backup.'] = 'Резервные копии — это автоматические копии дисков вашего сервера. Каждому серверу выделяется семь слотов для резервных копий. Когда все слоты заняты и создается новая резервная копия, самая старая резервная копия будет автоматически удалена. Для обеспечения согласованности данных мы рекомендуем выключить сервер перед созданием резервной копии.';
+$_LANG_PUQ['Attribute'] = 'Атрибут';
+$_LANG_PUQ['Value'] = 'Значение';
+$_LANG_PUQ['The backup function is disabled, please enable backup, then return to the page.'] = 'Функция резервного копирования отключена, пожалуйста, включите резервное копирование, затем вернитесь на страницу.';
+$_LANG_PUQ['The backup function is disabled!'] = 'Функция резервного копирования отключена!';
+$_LANG_PUQ['Snapshots are immediate, complete copies of your server\'s disks. For optimal data consistency, we advise shutting down your server before capturing a snapshot. The cost for snapshots is calculated based on the amount of storage used per month.'] = 'Снимки — это мгновенные, полные копии дисков вашего сервера. Для оптимальной согласованности данных мы советуем выключить сервер перед созданием снимка. Стоимость снимков рассчитывается на основе объема используемого хранилища в месяц.';
+$_LANG_PUQ['Size'] = 'Размер';
+$_LANG_PUQ['ISO mount'] = 'Монтирование ISO';
+$_LANG_PUQ['ID'] = 'ID';
+$_LANG_PUQ['Name'] = 'Имя';
+$_LANG_PUQ['Type'] = 'Тип';
+$_LANG_PUQ['Architecture'] = 'Архитектура';
+$_LANG_PUQ['Announced'] = 'Объявлено';
+$_LANG_PUQ['Created'] = 'Создано';
+$_LANG_PUQ['Status'] = 'Статус';
+$_LANG_PUQ['Actions'] = 'Действия';
+$_LANG_PUQ['Unavailable After'] = 'Недоступно после';
+$_LANG_PUQ['Available After'] = 'Доступно после';
+$_LANG_PUQ['Deprecation'] = 'Устаревание';
+$_LANG_PUQ['Refresh'] = 'Обновить';
+
+
+$_LANG_PUQ['Floating IPv4 addresses'] = 'Плавающие IPv4 адреса';
+$_LANG_PUQ['Floating IPv6 addresses'] = 'Плавающие IPv6 адреса';
+$_LANG_PUQ['Owned IPs'] = 'Владение IPs';
+$_LANG_PUQ['Owned IP'] = 'Владение IP';
+$_LANG_PUQ['Gigabyte'] = 'Гигабайт';
+$_LANG_PUQ['Bandwidth Usage (GB)'] = 'Использование пропускной способности (ГБ)';
+$_LANG_PUQ['Snapshot Usage (GB)'] = 'Использование снимков (ГБ)';
+
+
+
+$_LANG_PUQ['Snapshot'] = 'Снимок';
+$_LANG_PUQ['Backup'] = 'Резервна копия';
+
+
+
+$_LANG_PUQ['Service is suspended'] = 'Сервис приостановлен';
+$_LANG_PUQ['Server is running'] = 'Сервер работает';
+$_LANG_PUQ['Server is starting'] = 'Сервер запускается';
+$_LANG_PUQ['Server is initializing'] = 'Сервер инициализируется';
+$_LANG_PUQ['Server is stopping'] = 'Сервер останавливается';
+$_LANG_PUQ['Server is deleting'] = 'Сервер удаляется';
+$_LANG_PUQ['Server is rebuilding'] = 'Сервер восстанавливается';
+$_LANG_PUQ['Server is migrating'] = 'Сервер мигрирует';
+$_LANG_PUQ['Server is off'] = 'Сервер выключен';
+$_LANG_PUQ['Not allowed'] = 'Не разрешено';
+
+
+
+
+
+
+
+
+$_LANG_PUQ['cores'] = 'ядра';
+$_LANG_PUQ['Status'] = 'Статус';
+$_LANG_PUQ['CPU'] = 'ЦПУ';
+$_LANG_PUQ['RAM'] = 'ОЗУ';
+$_LANG_PUQ['System Disk'] = 'Системный диск';
+$_LANG_PUQ['Datacenter'] = 'Центр обработки данных';
+$_LANG_PUQ['Image'] = 'Образ';
+$_LANG_PUQ['Outgoing Traffic'] = 'Исходящий трафик';
+$_LANG_PUQ['Ingoing Traffic'] = 'Входящий трафик';
+$_LANG_PUQ['Public Network IPv4'] = 'Публичная сеть IPv4';
+$_LANG_PUQ['Public Network IPv6'] = 'Публичная сеть IPv6';
+$_LANG_PUQ['Private Network'] = 'Частная сеть';
+$_LANG_PUQ['Public Network DNS PTR'] = 'DNS PTR публичной сети';
+$_LANG_PUQ['Select Image'] = 'Выберите образ';
+$_LANG_PUQ['Show Backups'] = 'Показать резервные копии';
+$_LANG_PUQ['Show Snapshots'] = 'Показать снимки';
+$_LANG_PUQ['Select Image Type'] = 'Выберите тип образа';
+$_LANG_PUQ['System'] = 'Система';
+$_LANG_PUQ['App'] = 'Приложение';
+$_LANG_PUQ['Select an image'] = 'Выберите образ';
+$_LANG_PUQ['Please select an image type and an image!'] = 'Пожалуйста, выберите тип образа и образ!';
+$_LANG_PUQ['Please choose image type and an image!'] = 'Пожалуйста, выберите тип образа и образ!';
+$_LANG_PUQ['Type'] = 'Тип';
+$_LANG_PUQ['Status'] = 'Статус';
+$_LANG_PUQ['Name'] = 'Имя';
+$_LANG_PUQ['Description'] = 'Описание';
+$_LANG_PUQ['Disk Size'] = 'Размер диска';
+$_LANG_PUQ['Created'] = 'Создано';
+$_LANG_PUQ['Os Flavor'] = 'Вкус ОС';
+$_LANG_PUQ['Os Version'] = 'Версия ОС';
+$_LANG_PUQ['Rapid Deploy'] = 'Быстрое развертывание';
+$_LANG_PUQ['Protection'] = 'Защита';
+$_LANG_PUQ['Architecture'] = 'Архитектура';
+$_LANG_PUQ['Created From'] = 'Создано из';
+$_LANG_PUQ['Bound To'] = 'Привязано к';
+$_LANG_PUQ['bytes'] = 'байт';
+$_LANG_PUQ['GB'] = 'ГБ';
+$_LANG_PUQ['MB'] = 'МБ';
+$_LANG_PUQ['KB'] = 'КБ';
+$_LANG_PUQ['TB'] = 'ТБ';
+$_LANG_PUQ['Network'] = 'Сеть';
+$_LANG_PUQ['IP'] = 'IP';
+$_LANG_PUQ['MAC Address'] = 'MAC-адрес';
+$_LANG_PUQ['Image Size'] = 'Размер образа';
+$_LANG_PUQ['Time'] = 'Время';
+$_LANG_PUQ['CPU Usage'] = 'Использование ЦП';
+$_LANG_PUQ['Disk IOPS'] = 'Дисковые IOPS';
+$_LANG_PUQ['Read IOPS'] = 'Чтение IOPS';
+$_LANG_PUQ['Write IOPS'] = 'Запись IOPS';
+$_LANG_PUQ['Write Bandwidth (MB)'] = 'Запись пропускная способность (МБ)';
+$_LANG_PUQ['Read Bandwidth (MB)'] = 'Чтение пропускная способность (МБ)';
+$_LANG_PUQ['Packets In'] = 'Входящие Пакеты';
+$_LANG_PUQ['Packets Out'] = 'Исходящие Пакеты';
+$_LANG_PUQ['Disk Bandwidth'] = 'Дисковая пропускная способность';
+$_LANG_PUQ['Network Packets'] = 'Пакеты сети';
+$_LANG_PUQ['Bandwidth In (MB)'] = 'Входящая пропускная способность (МБ)';
+$_LANG_PUQ['Bandwidth Out (MB)'] = 'Исходящая пропускная способность (МБ)';
+$_LANG_PUQ['Network Bandwidth'] = 'Сетевая пропускная способность';
+$_LANG_PUQ['Please select an image type.'] = 'Пожалуйста, выберите тип образа.';
+$_LANG_PUQ['Please select an image.'] = 'Пожалуйста, выберите образ.';
+$_LANG_PUQ['Please enter the protection word.'] = 'Пожалуйста, введите защитное слово.';
+
+
+
