@@ -113,6 +113,7 @@ $_LANG_PUQ['Blocked'] = '已阻止';
 $_LANG_PUQ['DNS PTR'] = 'DNS PTR';
 $_LANG_PUQ['Open PTR Record'] = '打开PTR记录';
 $_LANG_PUQ['Server status'] = '服务器状态';
+$_LANG_PUQ['Volume status'] = '卷状态';
 $_LANG_PUQ['Last minute'] = '最后一分钟';
 $_LANG_PUQ['Last 15 minutes'] = '最后15分钟';
 $_LANG_PUQ['Last 30 minutes'] = '最后30分钟';

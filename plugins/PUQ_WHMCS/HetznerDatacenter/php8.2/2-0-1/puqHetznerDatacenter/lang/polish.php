@@ -113,6 +113,7 @@ $_LANG_PUQ['Blocked'] = 'Zablokowany';
 $_LANG_PUQ['DNS PTR'] = 'DNS PTR';
 $_LANG_PUQ['Open PTR Record'] = 'Otwórz rekord PTR';
 $_LANG_PUQ['Server status'] = 'Status serwera';
+$_LANG_PUQ['Volume status'] = 'Status dysku';
 $_LANG_PUQ['Last minute'] = 'Ostatnia minuta';
 $_LANG_PUQ['Last 15 minutes'] = 'Ostatnie 15 minut';
 $_LANG_PUQ['Last 30 minutes'] = 'Ostatnie 30 minut';

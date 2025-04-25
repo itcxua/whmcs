@@ -113,6 +113,7 @@ $_LANG_PUQ['Blocked'] = 'Blokkolva';
 $_LANG_PUQ['DNS PTR'] = 'DNS PTR';
 $_LANG_PUQ['Open PTR Record'] = 'PTR rekord megnyitása';
 $_LANG_PUQ['Server status'] = 'Szerver állapota';
+$_LANG_PUQ['Volume status'] = 'Ketastátus';
 $_LANG_PUQ['Last minute'] = 'Utolsó perc';
 $_LANG_PUQ['Last 15 minutes'] = 'Utolsó 15 perc';
 $_LANG_PUQ['Last 30 minutes'] = 'Utolsó 30 perc';

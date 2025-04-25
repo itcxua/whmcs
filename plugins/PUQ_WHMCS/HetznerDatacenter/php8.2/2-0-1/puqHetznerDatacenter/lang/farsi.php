@@ -113,6 +113,7 @@ $_LANG_PUQ['Blocked'] = "مسدود شده";
 $_LANG_PUQ['DNS PTR'] = "DNS PTR";
 $_LANG_PUQ['Open PTR Record'] = "باز کردن رکورد PTR";
 $_LANG_PUQ['Server status'] = "وضعیت سرور";
+$_LANG_PUQ['Volume status'] = "وضعیت حافظه";
 $_LANG_PUQ['Last minute'] = "دقیقه گذشته";
 $_LANG_PUQ['Last 15 minutes'] = "15 دقیقه گذشته";
 $_LANG_PUQ['Last 30 minutes'] = "30 دقیقه گذشته";

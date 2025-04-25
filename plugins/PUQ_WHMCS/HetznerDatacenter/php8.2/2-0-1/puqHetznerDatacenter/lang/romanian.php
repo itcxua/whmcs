@@ -113,6 +113,7 @@ $_LANG_PUQ['Blocked'] = 'Blocat';
 $_LANG_PUQ['DNS PTR'] = 'DNS PTR';
 $_LANG_PUQ['Open PTR Record'] = 'Deschide înregistrarea PTR';
 $_LANG_PUQ['Server status'] = 'Starea serverului';
+$_LANG_PUQ['Volume status'] = 'Starea discului';
 $_LANG_PUQ['Last minute'] = 'Ultimul minut';
 $_LANG_PUQ['Last 15 minutes'] = 'Ultimele 15 minute';
 $_LANG_PUQ['Last 30 minutes'] = 'Ultimele 30 minute';

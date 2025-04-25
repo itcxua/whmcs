@@ -113,6 +113,7 @@ $_LANG_PUQ['Blocked'] = 'Blokeeritud';
 $_LANG_PUQ['DNS PTR'] = 'DNS PTR';
 $_LANG_PUQ['Open PTR Record'] = 'Ava PTR kirje';
 $_LANG_PUQ['Server status'] = 'Serveri staatus';
+$_LANG_PUQ['Volume status'] = 'Ketas staatus';
 $_LANG_PUQ['Last minute'] = 'Viimane minut';
 $_LANG_PUQ['Last 15 minutes'] = 'Viimased 15 minutit';
 $_LANG_PUQ['Last 30 minutes'] = 'Viimased 30 minutit';

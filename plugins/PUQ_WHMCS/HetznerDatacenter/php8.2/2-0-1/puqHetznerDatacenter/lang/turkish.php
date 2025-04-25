@@ -113,6 +113,7 @@ $_LANG_PUQ['Blocked'] = 'Engellendi';
 $_LANG_PUQ['DNS PTR'] = 'DNS PTR';
 $_LANG_PUQ['Open PTR Record'] = 'PTR Kaydını Aç';
 $_LANG_PUQ['Server status'] = 'Sunucu Durumu';
+$_LANG_PUQ['Volume status'] = 'Disk Durumu';
 $_LANG_PUQ['Last minute'] = 'Son dakika';
 $_LANG_PUQ['Last 15 minutes'] = 'Son 15 dakika';
 $_LANG_PUQ['Last 30 minutes'] = 'Son 30 dakika';

@@ -113,6 +113,7 @@ $_LANG_PUQ['Blocked'] = "Blockerad";
 $_LANG_PUQ['DNS PTR'] = "DNS PTR";
 $_LANG_PUQ['Open PTR Record'] = "Öppna PTR-post";
 $_LANG_PUQ['Server status'] = "Serverstatus";
+$_LANG_PUQ['Volume status'] = "Volymstatus";
 $_LANG_PUQ['Last minute'] = "Senaste minuten";
 $_LANG_PUQ['Last 15 minutes'] = "Senaste 15 minuterna";
 $_LANG_PUQ['Last 30 minutes'] = "Senaste 30 minuterna";
